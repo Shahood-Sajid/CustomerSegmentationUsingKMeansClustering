@@ -7,8 +7,5 @@ This dataset also contains data of different advertisement campaigns and there w
 Another main goal of analysis is to improve the business by finding out the perfect customer segment and targeting them. 
 
 Tools which will be used in this problem are:
-• Pandas - will be used to import and perform data manipulations.
-• Seaborn and matplotlib will be used to analyze and visualize the features to comprehend the relations.
-• PCA was implemented for dimensionality reduction to transform large set of variables into smaller ones that contains most of the information in the larger set.
-• Clustering was performed to solve this problem
-• This project was made on Python using Jupyter Notebook.
+Pandas will be used to import and perform data manipulations. Seaborn and matplotlib will be used to analyze and visualize the features to comprehend the relations. PCA was implemented for dimensionality reduction to transform large set of variables into smaller ones that contains most of the information in the larger set. Clustering was performed to solve this problem
+
