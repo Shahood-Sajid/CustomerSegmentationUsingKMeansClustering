@@ -1,7 +1,7 @@
 # CustomerSegmentationUsingKMeansClustering
 
 Every ecommerce website has a main goal that is to how to make their customers buy more products. 
-Segmentation plays an import role to learn their customers behavior, so here I have worked on market analytics dataset. 
+Segmentation plays an important role to learn their customers behavior, so here I have worked on market analytics dataset. 
 Dataset contains data about customers from different classes. 
 This dataset also contains data of different advertisement campaigns and there was a need to identify which customer is going to choose which advertisement campaigns. 
 Another main goal of analysis is to improve the business by finding out the perfect customer segment and targeting them. 
